@@ -51,6 +51,11 @@ I am a passionate software developer specializing in building full-stack web app
 - **Tech Stack**: React, Node.js, Express, MongoDB, Socket.io, Firebase Auth, Leaflet Mapping, Geolocation APIs, Razorpay.
 - **Highlights**: Role-based routing, real-time geolocation matching (geospatial `$near` queries), real-time order status updates via WebSockets, and Razorpay UPI checkout integration.
 
+#### 📰 [Campus Wire — College Blog Posting Engine](https://github.com/The-Coding-Arena/Blog-Posting-Engine)
+*A decentralized campus-specific news feed and student blogging platform with rumor verification mechanics.*
+- **Tech Stack**: Next.js 14 (App Router), TypeScript, Tailwind CSS, Shadcn UI primitives, Supabase.
+- **Highlights**: Pinned emergency alert system, user-driven crowd fact-check voting widget (displays rumor warning banners above a 50% threshold), domain-matching university email signup, and ad banner injection engine.
+
 #### 📚 [MERN Backend Roadmap & Progression](https://github.com/vivekrai05-sudo/mern_stack)
 *A structured hands-on backend development curriculum covering system architecture and security.*
 - **Highlights**: Covers password security (Bcrypt), authentication (JWT Access/Refresh tokens in Secure HTTPOnly cookies), caching (Redis), request validation, and database operations.
