@@ -27,7 +27,7 @@
 I am a passionate software developer specializing in building full-stack web applications and AI-integrated products. Currently pursuing my B.Tech with a strong focus on algorithmic problem solving, scalable backend systems, and modern AI/RAG application development.
 
 - 💼 **Current Role**: Software Developer Intern at **UnifiedMentorPvt.Ltd.** (Remote)
-- 🎓 **Education**: Bachelor of Technology in CS & IT (CGPA: 8.0)
+- 🎓 **Education**: Bachelor of Technology in CS & IT (CGPA: 8.02)
 - 🚀 **Main Focus**: MERN Stack, AI/RAG Integrations, and Scalable Backend Architectures
 - 💡 **Interests**: Solving algorithmic puzzles, system design, and exploring cutting-edge Generative AI workflows
 
